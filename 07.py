@@ -1,3 +1,8 @@
+'''For the given table, write a python program to perform K-Means
+Clustering.
+X1 3 1 1 2 1 6 6 6 5 6 7 8 9 8 9 9 8
+X2 5 4 6 6 5 8 6 7 6 7 1 2 1 2 3 2 3'''
+
 from sklearn.cluster import KMeans
 from sklearn import metrics
 import numpy as np

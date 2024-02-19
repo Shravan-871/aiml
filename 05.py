@@ -1,3 +1,6 @@
+'''Write a program to implement K-Nearest Neighbour algorithm to classify
+the iris data set. Print both correct and wrong predictions.'''
+
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split

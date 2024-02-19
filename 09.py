@@ -1,5 +1,7 @@
-# Hierarchical Clustering
+'''For the given customer dataset, using the dendogram to find the optimal
+number of clusters and finding Hierarchical Clustering to the dataset'''
 
+# Hierarchical Clustering
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt

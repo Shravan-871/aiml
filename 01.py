@@ -1,3 +1,6 @@
+'''Implement simple linear regression using python program and
+estimate statistical quantities from training data'''
+
 import matplotlib.pyplot as plt
 import numpy as np
 from math import sqrt
